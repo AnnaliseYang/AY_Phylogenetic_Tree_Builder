@@ -1,0 +1,25 @@
+Nodes Map: (root, map)
+root = 'P4'
+map =
+{
+    'S1': 'ACTGCCGATCGCATCGTACG',
+    'S2': 'ACTGCCGTTCGCATCGTACG',
+    'S3': 'ACAGCCG-TCGCATCGTACG',
+    'S4': 'ACTGGCGATCGCTTCGTTCG',
+    'S5': 'ACTGCGGAACGGATCGAACG',
+    'P1': ('ACTGCCGATCGCATCGTACG', 'ACTGCCGTTCGCATCGTACG'),
+    'P2': (('ACTGCCGATCGCATCGTACG', 'ACTGCCGTTCGCATCGTACG'), 'ACAGCCG-TCGCATCGTACG'),
+    'P3': ((('ACTGCCGATCGCATCGTACG', 'ACTGCCGTTCGCATCGTACG'), 'ACAGCCG-TCGCATCGTACG'), 'ACTGGCGATCGCTTCGTTCG'),
+    'P4': (((('ACTGCCGATCGCATCGTACG', 'ACTGCCGTTCGCATCGTACG'), 'ACAGCCG-TCGCATCGTACG'), 'ACTGGCGATCGCTTCGTTCG'), 'ACTGCGGAACGGATCGAACG')
+}
+
+Tree Map: a list of nodes ordered from root to leaves
+    P4 -> left child: P3, right child: S5
+    S5 -> left child: None, right child: None
+    P3 -> left child: P2, right child: S4
+    S4 -> left child: None, right child: None
+    P2 -> left child: P1, right child: S3
+    S3 -> left child: None, right child: None
+    P1 -> left child: S1, right child: S2
+    S2 -> left child: None, right child: None
+    S1 -> left child: None, right child: None

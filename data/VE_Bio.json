@@ -1,0 +1,38 @@
+{
+    "VERTEX":
+    [
+        {"id":"A1000", "name": "Terry", "data": {"dna": "ACTGCXCGATCGCTACGTAC"}},
+        {"id":1001, "name": "Anna", "data": {"dna": "ACTGCCGTTCGCATCGTACG"}},
+        {"id":1002, "name": "Willow", "data": {"dna": "ACAGCCG-TCGCATCGTACG"}},
+        {"id":1003, "name": "Willow", "data": {"dna": "ACTGGCGATCGCTTCGTTCG"}},
+        {"id":1004, "name": "Willow", "data": {"dna": "ACTGCGGAACGGATCGAACG"}},
+
+        {"id":2001, "name": "Willow", "data": {"dna": "BXT678CGATCGCATCGTACG"}},
+        {"id":2002, "name": "Willow", "data": {"dna": "ACTGCCGTTCGCZ67CGTXYZ"}},
+        {"id":2003, "name": "Willow", "data": {"dna": "ACAGCCG-XGCAXCGZACG"}},
+        {"id":2004, "name": "Willow", "data": {"dna": "ACTGACGATAGCTTCGTTCG"}},
+        {"id":2005, "name": "Willow", "data": {"dna": "ACTGCCGAT121ATCGTACG"}},
+        
+        {"id":2006, "name": "Willow", "data": {"dna": "ACTGXCGTTCGCATCGTACG"}},
+        {"id":2007, "name": "Willow", "data": {"dna": "CC250CG-TCGCATCGTACG"}},
+        {"id":2008, "name": "Willow", "data": {"dna": "ACTGGCG88CGCTESTTTCG"}},
+        {"id":2009, "name": "Willow", "data": {"dna": "ACTGCCGATCGCATCGTACG"}},
+        {"id":2010, "name": "Willow", "data": {"dna": "ACT888GTTCGCA1HGT000"}},
+        
+        {"id":2011, "name": "Willow", "data": {"dna": "ACT888GTTCGCA2HGT000"}},
+        {"id":2012, "name": "Willow", "data": {"dna": "ACT999GTTCGCA1NGT001"}},
+        {"id":2013, "name": "Willow", "data": {"dna": "ACT888GTTCGCA1HGT001"}},
+        {"id":2014, "name": "Willow", "data": {"dna": "ACAGCCG-TCGCATCGAXZG"}},
+        {"id":2015, "name": "Willow", "data": {"dna": "AANNCCGXTCGCATCGAXZG"}},
+        
+        {"id":2016, "name": "Willow", "data": {"dna": "BANNCCGXTCGCATCGAXZG"}},
+        {"id":2017, "name": "Willow", "data": {"dna": "ACAGC9087CGCATCG1234"}}
+    ],
+
+    "EDGE":
+    [
+    ]
+
+}
+
+

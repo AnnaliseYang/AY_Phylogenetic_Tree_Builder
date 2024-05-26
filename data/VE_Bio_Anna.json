@@ -1,0 +1,22 @@
+{
+    "VERTEX":
+    [
+        {"id":1000, "name": "Terry", "dna": "ACTGCACGATCGCTACGTAC"},
+        {"id":1001, "name": "Anna", "dna": "ACTGCCGTTCGCATCGTACG"},
+        {"id":1002, "name": "Willow", "dna": "ACAGCCG-TCGCATCGTACG"},
+        {"id":1003, "name": "Julia", "dna": "ACTGGCGATCGCTTCGTTCG"},
+        {"id":1004, "name": "Wendy", "dna": "ACTGCGGAACGGATCGAACG"},
+
+        {"id":1005, "name": "Cat", "dna": "ACTGCTCGATCGCTACGTAC"},
+        {"id":1006, "name": "Tiger", "dna": "ACTGCCGTGCGCATCGTACG"},
+        {"id":1007, "name": "Butterfly", "dna": "ACAGCCGGTCGCAGCT-ACG"},
+        {"id":1008, "name": "Monkey", "dna": "ACTGACGCTCGCTTCGTTCG"},
+        {"id":1009, "name": "Rose", "dna": "ACTGCGGAACTAATCGAACG"}
+    ],
+
+    "EDGE":
+    [
+    ]
+}
+
+

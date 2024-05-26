@@ -1,0 +1,15 @@
+{
+    "VERTEX":
+    [
+        {"id":"N1000", "name": "Terry", "data": {"dna": "Hello Terry"} },
+        {"id":1001, "name": "Anna", "data": {"dna": "Hello Anna" } },
+        {"id":1002, "name": "Willow", "data": {"dna": "Hello Willow"} }
+    ],
+
+    "EDGE":
+    [
+        {"id1":"N1000", "id2": 1001},
+        {"id1":"N1000", "id2": 1002}
+    ]
+
+}
